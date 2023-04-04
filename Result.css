@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+
+.main_container{
+  width: 70%;
+  height: 98vh;
+  border: 1px solid rgb(187, 179, 179);
+ 
+  border-radius: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0.5rem;
+ text-align: center;
+ font-size: 40px;
+ padding-top: 2rem;
+}
+h1{
+  color: rgb(25, 194, 227);
+  text-align: center;
+ 
+}
+.button_line{
+  width: 100%;
+  height: 20vh;
+ 
+  display: flex;
+ 
+ margin-top: 2.1rem;
+}
+.button{
+  width: 40%;
+  height: 8vh;
+  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0rem;
+ border: none;
+ border-radius: 2rem;
+ background-color: rgb(10, 71, 213);
+
+ text-align: center;
+ 
+}
+.button:hover{
+  background-color: rgb(17, 17, 78);
+}
+a{
+  font-size: 20px;
+  
+  text-decoration: none;
+  color: white;
+}

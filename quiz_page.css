@@ -50,6 +50,7 @@ justify-content: center;
 .category{
   width: 70%;
   height: 25vh;
+  padding-top: 2rem;
  
 }
 
@@ -57,6 +58,7 @@ justify-content: center;
 .score{
   width: 20%;
   height: 25vh;
+  padding-top: 4rem;
  
  
 }
